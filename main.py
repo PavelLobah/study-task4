@@ -43,3 +43,5 @@ result = process_files(folder_path)
 
 for letter, frequency in result.items():
     print(f"Буква {letter}: {frequency} раз(а)")
+
+
